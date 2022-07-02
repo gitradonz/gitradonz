@@ -1,6 +1,6 @@
-### Pablo Ríos personal account !
+### Pablo Ríos Martínez
 
-- 👨‍💼 Currently working as React & ReactNative developer at Lobocom.es
+- 👨‍💼 Currently working as Web & Mobile developer at Lobocom.es
 
 
 - 📫 Contact me: pabloriosrdn@gmail.com
