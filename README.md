@@ -1,8 +1,5 @@
-### Pablo Ríos Martínez
+### Pablo Ríos Martínez - Web & Mobile dev
 
-- 👨‍💼 Currently working as Web & Mobile developer at Lobocom.es
-
-
+- 👨‍💼 Currently working at Superna
 - 📫 Contact me: pabloriosrdn@gmail.com
-- 🏢 Corporate Git accounts: www.github.com/pablorioslb / https://bitbucket.org/pablorioslb/
 - 🖥️ Portfolio: www.radonz.com
