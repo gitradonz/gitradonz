@@ -1,5 +1,6 @@
-### Pablo Ríos Martínez - Web & Mobile - REACT / REACT-NATIVE
+### Pablo Ríos Martínez
 
-- 👨‍💼 Currently working at www.Superna.io
-- 📫 Contact me: pabloriosrdn@gmail.com
+- 👨‍💼 Working at www.Superna.io
+- 💼 CEO www.prae.es
 - 🖥️ Portfolio: www.radonz.com
+- 📫 Contact me: pabloriosrdn@gmail.com
